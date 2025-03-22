@@ -1,0 +1,138 @@
+interviewer:
+  - 면접관, 인터뷰 진행자
+interviewee:
+  - 면접[인터뷰] 대상자
+inventor:
+  - 발명가
+supervisor:
+  - 감독관, 관리자
+assistant:
+  - 보조자, 조수
+  - 보조의, 하위 직급의
+attendant:
+  - 시중드는 사람
+  - 수행원
+servant:
+  - 하인, 고용인
+resident:
+  - 거주자
+  - 거주하는, 살고 있는
+journalist:
+  - 언론인, 기자
+psychologist:
+  - 심리학자
+relative:
+  - 친척, 인척
+  - 상대적인
+representative:
+  - 대표자, 대리인
+  - 대표하는
+boundary:
+  - 경계선
+secretary:
+  - 비서
+missionary:
+  - 선교사, 전도사
+  - 전도의
+economics:
+  - 경제학
+politics:
+  - 정치(학)
+physics:
+  - 물리학
+appearance:
+  - 외모, 외관
+  - 등장, 출현, 출연
+conference:
+  - 회담, 회견
+  - 회의, 협의회
+variety:
+  - 다양성, 다양함
+ability:
+  - 할 수 있음, 능력
+authority:
+  - 권한, 권위
+discovery:
+  - 발견
+theory:
+  - 이론, 학설
+surgery:
+  - 수술
+arrival:
+  - 도착
+proposal:
+  - 제안
+  - 청혼
+creature:
+  - 생물
+  - 창조물, 인간
+faliure:
+  - 실패[자], 낙제[자]
+agreement:
+  - 협정
+  - 동의, 협의
+assessment:
+  - 평가, 진단
+  - 평가액
+document:
+  - 서류, 문서
+  - 기록하다
+pollution:
+  - 오염, 공해
+translation:
+  - 번역, 통역
+  - 해석
+introduction:
+  - 소개
+  - 도입
+invitation:
+  - 초대
+wealth:
+  - 부, 재산
+  - 풍부함
+weight:
+  - 무게, 체중
+witness:
+  - 목격자, 입회인
+  - (법정에서) 증인
+  - 목격하다
+  - 증언하다
+fitness:
+  - 건강(함)
+  - 적절함
+accuracy:
+  - 정확(성), 정밀(도)
+privacy:
+  - 사생활
+citizenship:
+  - 시민권, 시민으로서의 신분
+leadership:
+  - 통솔력, 지도력
+childhood:
+  - 유년기
+neighborhood:
+  - 근처, 이웃
+realism:
+  - 현실주의
+  - 사실성
+optimism:
+  - 낙관론, 낙관주의
+criticism:
+  - 비판, 비난
+  - 비평, 평론
+target:
+  - 목표, 대상
+  - 목표로 삼다, 대상으로 하다
+booklet:
+  - 소책자
+leaflet:
+  - (광고용) 전단
+etiquette:
+  - 예의, 에티켓
+angle:
+  - 각도, 각
+  - 관점
+  - (+for) 노리다
+lable:
+  - 라벨, 표
+  - 라벨[표]를 붙이다
