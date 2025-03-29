@@ -283,6 +283,7 @@ def create(type):
     else:
         return "404"
 
+@app.route("edit/<id>")
 def edit(id):
     obj = getObj(bson.ObjectId(id))
     type = getType(bson.ObjectId(id))
