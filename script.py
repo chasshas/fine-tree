@@ -170,6 +170,7 @@ class Unit:
             record_data += list(records.find({"quiz_id": i["id"]}))
         return [Record.fromDict(i) for i in record_data] if record_data else None
 
+
 class Quiz:
     def __init__(self, question: str, answer: str, unit_id: bson.ObjectId, id: bson.ObjectId, hint: str, type: str, meta: dict) -> None:
         self.question = question
